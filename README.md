@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yamatowani&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=fff)
 
 ## Frameworks and Library
-<img src="https://skillicons.dev/icons?i=rails,react,next,nest" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rails,react,next,nest,prisma" /> <br /><br />
 
 ## DB, Dev tools, etc...
-<img src="https://skillicons.dev/icons?i=mysql,prisma,graphql,vercel,vscode,notion" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,graphql,vercel,vscode,notion" /> <br /><br />
