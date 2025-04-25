@@ -9,4 +9,4 @@
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,rails,vite,react,nextjs,tailwind" /> <br /><br />
 
 ## DB, Dev tools, etc...
-<img src="https://skillicons.dev/icons?i=mysql,docker,vercel,vscode,figma, github,notion" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,vercel,vscode,figma,github,notion" /> <br /><br />
