@@ -1,6 +1,6 @@
 # About Me
 - I'm a student at Keio University SFC(Shonan Fujisawa Campus)
-- I'm Web Developer of TEDxKeioU [Web Site](https://tedxkeiou.com)
+- I'm a Web Developer
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=typescript,go,ruby,html,css," /> <br /><br />
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yamatowani&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=fff)
